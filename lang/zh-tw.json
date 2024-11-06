@@ -1,0 +1,11 @@
+{
+    "click_to_select":"點擊來選擇",
+
+    "job":"職業",
+    "farmer":"農夫",
+    "farmer_des":"就...種田",
+
+    "choose_job":"請選擇職業，您現在是%(job)s",
+    "home":"歡迎回來，%(display_name)s",
+    "balance":"目前金錢"
+}

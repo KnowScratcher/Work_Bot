@@ -1,0 +1,10 @@
+{
+    "click_to_select":"Click to select",
+
+    "farmer":"Farmer",
+    "farmer_des":"Well... go farming",
+
+    "choose_job":"Please select your occupation, you're now %(job)s",
+    "home":"Welcome back, %(display_name)s",
+    "balance":"Balance"
+}
