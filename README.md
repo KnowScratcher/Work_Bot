@@ -21,7 +21,7 @@ quick install command:
 4. Config your token and admins
 5. run the `main.py` file
 ### Using git
-1. Run `git clone [project]`
+1. Run `git clone https://github.com/KnowScratcher/Work_Bot.git`
 2. Make sure the requirements are installed, you can use `pip install [library]` to install
 3. Change the name of `example.config.json` to `config.json`
 4. Config your token and admins
